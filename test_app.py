@@ -7,4 +7,4 @@ def test_greet():
 
 
 def test_version():
-    assert get_version() == "1.0.0"
+    assert get_version() == "1.0.1"
